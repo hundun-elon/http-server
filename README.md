@@ -2,7 +2,6 @@
 this is the solution to the challenge from repo called buildYourOwnX
 --
 All the shell scripts for testing was built by smart people at https://codecrafters.io/
-
 --
 I am only responsible to continuilly building this server,
 # security.
